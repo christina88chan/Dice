@@ -80,7 +80,6 @@ int sum = 0;
       sum += bob.isRoll;
       i++;
     }
-    System.out.println(sum);
     fill(6, 100, 96);
     stroke(6, 89, 86);
     rect(95,40,120,45);
